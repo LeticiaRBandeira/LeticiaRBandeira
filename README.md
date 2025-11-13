@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá!
 
-<!--
-**LeticiaRBandeira/LeticiaRBandeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Atualmente estou aprendendo: Python, php, html**  
 
-Here are some ideas to get you started:
+👯 **Estou procurando oportunidades de colaboração em:**  
+(Projetos, áreas ou tecnologias com as quais você deseja colaborar.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 **Preciso de ajuda com: Linguagem C**  
+
+💬 **Pergunte-me sobre:**  
+(Suas habilidades, áreas de conhecimento ou temas que gosta de discutir.)
+
+📫 **Como me contatar:  
+leticiarbandeira07@gmail.com  
+www.linkedin.com/in/leticia-rodovalho-079957344**  
+
+😄 **Pronomes: ela/dela**  
+
+⚡ **Curiosidade:**  
+(Uma curiosidade sua ou algo divertido.)
