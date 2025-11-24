@@ -1,20 +1,21 @@
-# 👋 Olá!
+# 👋 Olá! Bem-vindo ao meu GitHub
 
-🌱 **Atualmente estou aprendendo: Python, php, html**  
+Sou a **Leticia**, desenvolvedora em formação e apaixonada por tecnologia, educação e criação de sistemas.  
+Gosto de transformar ideias em projetos práticos — especialmente aqueles que ajudam pessoas no dia a dia.
 
-👯 **Estou procurando oportunidades de colaboração em:**  
-(Projetos, áreas ou tecnologias com as quais você deseja colaborar.)
+## 💼 O que estou fazendo atualmente
+- Trabalhando em projetos acadêmicos envolvendo **CRUDs**, **bancos de dados** e **sistemas web**
 
-🤔 **Preciso de ajuda com: Linguagem C**  
+## 🌱Atualmente aprendendo
+- Banco de dados e modelagem (SQL/ER)  
+- Desenvolvimento de sistemas completos
+- PHP
 
-💬 **Pergunte-me sobre:**  
-(Suas habilidades, áreas de conhecimento ou temas que gosta de discutir.)
+## 👯 Interessada em colaborar em
+- Projetos de educação  
+- Sistemas web simples e didáticos  
+- Projetos que envolvam lógica, banco de dados e automação
 
-📫 **Como me contatar:  
-leticiarbandeira07@gmail.com  
-www.linkedin.com/in/leticia-rodovalho-079957344**  
-
-😄 **Pronomes: ela/dela**  
-
-⚡ **Curiosidade:**  
-(Uma curiosidade sua ou algo divertido.)
+## 💬 Pode me perguntar sobre
+- Ideias para CRUDs  
+- Modelagem de banco de dados  
